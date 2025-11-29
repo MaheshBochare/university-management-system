@@ -1,0 +1,346 @@
+s	Team	Type	Base	Sold
+V Kohli headshot
+Virat Kohli
+RCB	BAT	-	21.00
+Rajat Patidar, player portrait
+Rajat Patidar
+RCB	BAT	-	11.00
+Yash Dayal, player portrait
+Yash Dayal
+RCB	BOWL	-	5.00
+Jasprit Bumrah player page headshot cutout, 2021
+Jasprit Bumrah
+MI	BOWL	-	18.00
+Suryakumar Yadav player page headshot cutout 2021
+Suryakumar Yadav
+MI	BAT	-	16.35
+Hardik Pandya, player portrait
+Hardik Pandya
+MI	AR	-	16.35
+Rohit Sharma, player page headshot cutout, 2024
+Rohit Sharma
+MI	BAT	-	16.30
+Tilak Varma, player page headshot cutout, 2024
+Tilak Varma
+MI	AR	-	8.00
+Heinrich Klaasen player page headshot cutout, 2021
+Heinrich Klaasen
+SRH	BAT	-	23.00
+Pat Cummins, player portrait
+Pat Cummins
+SRH	AR	-	18.00
+Abhishek Sharma, player page headshot cutout 2023
+Abhishek Sharma
+SRH	AR	-	14.00
+Travis Head player page headshot cutout, 2021
+Travis Head
+SRH	BAT	-	14.00
+Nitish Kumar Reddy, player portrait
+Nitish Kumar Reddy
+SRH	AR	-	6.00
+Ruturaj Gaikwad player page headshot cutout, 2021
+Ruturaj Gaikwad
+CSK	BAT	-	18.00
+RA Jadeja headshot
+Ravindra Jadeja
+CSK	AR	-	18.00
+Matheesha Pathirana, player page headshot cutout 2023
+Matheesha Pathirana
+CSK	BOWL	-	13.00
+Shivam Dube, player page headshot cutout, 2024
+Shivam Dube
+CSK	AR	-	12.00
+MS Dhoni player page headshot cutout, 2021
+MS Dhoni
+CSK	BAT	-	4.00
+Axar Patel player page headshot cutout 2021
+Axar Patel
+DC	AR	-	16.50
+Kuldeep Yadav player page headshot cutout, 2021
+Kuldeep Yadav
+DC	BOWL	-	13.25
+Tristan Stubbs, player page headshot cutout 2022
+Tristan Stubbs
+DC	BAT	-	10.00
+Abishek Porel, player portrait
+Abishek Porel
+DC	BAT	-	4.00
+Rinku Singh, player page headshot cutout 2022
+Rinku Singh
+KKR	BAT	-	13.00
+Varun Chakravarthy player page headshot cutout 2021
+Varun Chakravarthy
+KKR	AR	-	12.00
+Sunil Narine player page headshot cutout, 2021
+Sunil Narine
+KKR	BOWL	-	12.00
+AD Russell headshot
+Andre Russell
+KKR	AR	-	12.00
+Harshit Rana, player page headshot cutout 2023
+Harshit Rana
+KKR	BOWL	-	4.00
+Ramandeep Singh, player portrait
+Ramandeep Singh
+KKR	AR	-	4.00
+Sanju Samson player page headshot cutout, 2021
+Sanju Samson
+RR	BAT	-	18.00
+Yashasvi Jaiswal, player page headshot cutout 2022
+Yashasvi Jaiswal
+RR	AR	-	18.00
+Riyan Parag, player page headshot cutout 2023
+Riyan Parag
+RR	AR	-	14.00
+Dhruv Jurel, player page headshot cutout 2022
+Dhruv Jurel
+RR	BAT	-	14.00
+Shimron Hetmyer player page headshot cutout, 2021
+Shimron Hetmyer
+RR	BAT	-	11.00
+Sandeep Sharma player page headshot cutout, 2021
+Sandeep Sharma
+RR	BOWL	-	4.00
+Rashid Khan player page headshot cutout, 2024
+Rashid Khan
+GT	BOWL	-	18.00
+Shubman Gill player page headshot cutout, 2021
+Shubman Gill
+GT	BAT	-	16.50
+B Sai Sudharsan, player portrait
+Sai Sudharsan
+GT	AR	-	8.50
+Rahul Tewatia player page headshot cutout, 2021
+Rahul Tewatia
+GT	AR	-	4.00
+Shahrukh Khan, player page headshot cutout 2023
+M Shahrukh Khan
+GT	AR	-	4.00
+Nicholas Pooran player page headshot cutout, 2021
+Nicholas Pooran
+LSG	BAT	-	21.00
+Ravi Bishnoi, player page headshot cutout 2022
+Ravi Bishnoi
+LSG	BOWL	-	11.00
+Mayank Yadav player page headshot cutout, 2024
+Mayank Yadav
+LSG	BOWL	-	11.00
+Mohsin Khan won the match award
+Mohsin Khan
+LSG	BOWL	-	4.00
+Ayush Badoni, player portrait
+Ayush Badoni
+LSG	AR	-	4.00
+Shashank Singh, player page headshot cutout, 2024
+Shashank Singh
+PBKS	AR	-	5.50
+Prabhsimran Singh, player page headshot cutout 2023
+Prabhsimran Singh
+PBKS	BAT	-	4.00
+Jos Buttler cutout
+Jos Buttler
+NEW
+GT	BAT	2.00	15.75
+Shreyas Iyer player page headshot cutout, 2021
+Shreyas Iyer
+NEW
+PBKS	BAT	2.00	26.75
+Rishabh Pant player page headshot cutout, 2021
+Rishabh Pant
+NEW
+LSG	BAT	2.00	27.00
+Kagiso Rabada player page headshot cutout, 2021
+Kagiso Rabada
+NEW
+GT	BOWL	2.00	10.75
+Arshdeep Singh, player portrait
+Arshdeep Singh
+NEW
+PBKS	BOWL	2.00	18.00
+Mitchell Starc, player portrait
+Mitchell Starc
+NEW
+DC	BOWL	2.00	11.75
+Yuzvendra Chahal player page headshot cutout, 2021
+Yuzvendra Chahal
+NEW
+PBKS	BOWL	2.00	18.00
+Liam Livingstone cutout
+Liam Livingstone
+NEW
+RCB	AR	2.00	8.75
+DA Miller headshot
+David Miller
+NEW
+LSG	BAT	1.50	7.50
+KL Rahul player page headshot cutout, 2021
+KL Rahul
+NEW
+DC	BAT	2.00	14.00
+Mohammed Shami, player portrait
+Mohammed Shami
+NEW
+SRH	BOWL	2.00	10.00
+Mohammed Siraj player page headshot cutout, 2021
+Mohammed Siraj
+NEW
+GT	BOWL	2.00	12.25
+Harry Brook, player page headshot cutout, 2024,
+Harry Brook
+NEW
+DC	BAT	2.00	6.25
+Devon Conway portrait
+Devon Conway
+NEW
+CSK	BAT	2.00	6.25
+Jake Fraser-McGurk, player portrait
+Jake Fraser-McGurk
+NEW
+DC	BAT	2.00	9.00
+Aiden Markram player page headshot cutout, 2021
+Aiden Markram
+NEW
+LSG	BAT	2.00	2.00
+Devdutt Padikkal player page headshot cutout, 2021
+Devdutt Padikkal
+NEW
+RCB	BAT	2.00	2.00
+Rahul Tripathi player portrait
+Rahul Tripathi
+NEW
+CSK	BAT	0.75	3.40
+DA Warner headshot
+David Warner
+-	BAT	2.00	Unsold
+R Ashwin, player portrait
+Ravichandran Ashwin
+NEW
+CSK	AR	2.00	9.75
+Venkatesh Iyer, player page headshot cutout 2022
+Venkatesh Iyer
+NEW
+KKR	AR	2.00	23.75
+Mitchell Marsh, player page headshot cutout, 2021
+Mitchell Marsh
+NEW
+LSG	AR	2.00	3.40
+Glenn Maxwell, player portrait
+Glenn Maxwell
+NEW
+PBKS	AR	2.00	4.20
+Harshal Patel, player page headshot cutout, 2024
+Harshal Patel
+NEW
+SRH	AR	2.00	8.00
+Rachin Ravindra portrait
+Rachin Ravindra
+NEW
+CSK	AR	1.50	4.00
+Marcus Stoinis player page headshot cutout, 2021
+Marcus Stoinis
+NEW
+PBKS	AR	2.00	11.00
+Jonny Bairstow cutout
+Jonny Bairstow
+-	BAT	2.00	Unsold
+Q de Kock headshot
+Quinton de Kock
+NEW
+KKR	BAT	2.00	3.60
+Rahmanullah Gurbaz player page headshot cutout, 2024
+Rahmanullah Gurbaz
+NEW
+KKR	BAT	2.00	2.00
+Ishan Kishan player page headshot cutout 2021
+Ishan Kishan
+NEW
+SRH	BAT	2.00	11.25
+Phil Salt player, player page headshot cutout, 2024,
+Phil Salt
+NEW
+RCB	BAT	2.00	11.50
+Jitesh Sharma, player page headshot cutout, 2024
+Jitesh Sharma
+NEW
+RCB	BAT	1.00	11.00
+Khaleel Ahmed player page headshot cutout, 2021
+Khaleel Ahmed
+NEW
+CSK	BOWL	2.00	4.80
+Trent Boult portrait
+Trent Boult
+NEW
+MI	BOWL	2.00	12.50
+Josh Hazlewood, player portrait
+Josh Hazlewood
+NEW
+RCB	BOWL	2.00	12.50
+Avesh Khan player page headshot cutout, 2021
+Avesh Khan
+NEW
+LSG	BOWL	2.00	9.75
+Prasidh Krishna, player portrait
+Prasidh Krishna
+NEW
+GT	BOWL	2.00	9.50
+T Natarajan player page headshot cutout, 2021
+T Natarajan
+NEW
+DC	BOWL	2.00	10.75
+Anrich Nortje player page headshot cutout, 2021
+Anrich Nortje
+NEW
+KKR	BOWL	2.00	6.50
+Noor Ahmad cutout
+Noor Ahmad
+NEW
+CSK	BOWL	2.00	10.00
+Rahul Chahar player page headshot cutout 2021
+Rahul Chahar
+NEW
+SRH	BOWL	1.00	3.20
+Wanindu Hasaranga player page headshot cutout, 2021
+Wanindu Hasaranga
+NEW
+RR	BOWL	2.00	5.25
+Waqar Salamkheil, player page headshot cutout, 2021
+Waqar Salamkheil
+-	BOWL	0.75	Unsold
+Maheesh Theekshana, player page headshot cutout 2022
+Maheesh Theekshana
+NEW
+RR	BOWL	2.00	4.40
+Adam Zampa player page headshot cutout, 2021
+Adam Zampa
+NEW
+SRH	BOWL	2.00	2.40
+Yash Dhull, player page headshot cutout 2022
+Yash Dhull
+-	BAT	0.30	Unsold
+
+Abhinav Manohar
+NEW
+SRH	BAT	0.30	3.20
+Karun Nair player page headshot cutout, 2021
+Karun Nair
+NEW
+DC	BAT	0.30	0.50
+Angkrish Raghuvanshi, player page headshot cutout 2022
+Angkrish Raghuvanshi
+NEW
+KKR	BAT	0.30	3.00
+Anmolpreet Singh, player page headshot cutout 2023
+Anmolpreet Singh
+-	BAT	0.30	Unsold
+Atharva Taide, player page headshot cutout 2023
+Atharva Taide
+NEW
+SRH	BAT	0.30	0.30SSSSS
+Nehal Wadhera, player page headshot cutout, 2024
+Nehal Wadhera
+NEW
+PBKS	BAT	0.30	4.20
+Harpreet Brar, player page headshot cutout, 2024
+Harpreet Brar
+NEW
+PBKS	AR	0.30	1.50
